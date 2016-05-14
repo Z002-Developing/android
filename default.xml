@@ -477,12 +477,4 @@
   <project path="system/gatekeeper" name="platform/system/gatekeeper" groups="pdk" remote="aosp" />
 <!-- END AOSP -->
 
-<!-- Device Files Currently Disable
-  <project path="device/asus/ctp-common" name="Z002-Developing/android_device_asus_ctp-common" remote="github" revision="refs/heads/master" />
-  <project path="device/asus/Z002" name="Z002-Developing/android_device_asus_Z002" remote="github" revision="refs/heads/master" />
-  <project path="vendor/asus/ctp-common" name="Z002-Developing/android_vendor_asus_ctp-common" remote="github" revision="refs/heads/master" />
-  <project path="vendor/asus/Z002" name="Z002-Developing/android_vendor_asus_Z002" remote="github" revision="refs/heads/master" />
-  <project path="hardware/intel" name="Z002-Developing/android_hardware_intel" groups="intel" remote="github" revision="refs/heads/master" />
-<!-- Device Files END -->
-
 </manifest>
